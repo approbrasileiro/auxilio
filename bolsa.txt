@@ -1,2 +1,2 @@
-url1;url2
-url3;url4
+https://raw.githubusercontent.com/approbrasileiro/auxilio/main/consumo.PNG;http://globo.com
+https://raw.githubusercontent.com/approbrasileiro/auxilio/main/consumo.PNG;https://www.americanas.com.br
